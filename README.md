@@ -5,4 +5,5 @@ Atividades de alguns cursos de Python que fiz.
   * Basico de Analise de Dados;
   * Basico de Machine Learning;
   * Basico de Redes Neurais;
-  * E mais algumas atividades extras.
+
+E mais algumas atividades extras.
